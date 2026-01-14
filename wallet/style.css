@@ -1,0 +1,56 @@
+
+body {
+    font-family: Tahoma;
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.box {
+    background: #fff;
+    width: 330px;
+    margin: 60px auto;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+input, button {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button {
+    background: #2196F3;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.balance {
+    font-size: 20px;
+    margin: 10px;
+}
+
+table {
+    width: 95%;
+    margin: auto;
+    background: #fff;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.mini {
+    width: 300px;
+    margin: auto;
+}
+
